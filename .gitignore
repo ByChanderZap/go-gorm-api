@@ -19,3 +19,8 @@
 
 # Go workspace file
 go.work
+
+tmp/ 
+# ^^ Not sure if that might be ignored or not. But i guess it should.
+
+go-form-api
